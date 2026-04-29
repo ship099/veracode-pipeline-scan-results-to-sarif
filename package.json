@@ -35,5 +35,8 @@
     "require": [
       "ts-node/register"
     ]
+  },
+  "overrides": {
+    "undici": "^7.0.0"
   }
 }
